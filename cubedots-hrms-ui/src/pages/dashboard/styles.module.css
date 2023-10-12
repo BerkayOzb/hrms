@@ -1,0 +1,8 @@
+.userInfoCard {
+    width: 30   0px;
+    height: 350px;
+    /* border:solid; */
+    box-shadow: 4px 4px 15px 0px #00000033;
+    background: #FFFFFF;
+    padding: 15px 0px;
+}

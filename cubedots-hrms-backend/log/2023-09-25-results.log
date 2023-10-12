@@ -1,0 +1,5 @@
+{"level":"error","message":{"content":"Exception: notice update ","meta":["TypeError: newNotice is not iterable\n    at updateNotice (E:\\Cubedots-HRMS\\cubedots-hrms-backend\\src\\controllers\\adminController.js:621:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"],"type":"USER"},"timestamp":"2023-09-25 11:44:42"}
+{"level":"debug","message":{"content":{"email":"tejashva.gadekar@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-09-25 12:57:29"}
+{"level":"debug","message":{"content":{"email":"mukul.malviya@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-09-25 14:21:55"}
+{"level":"debug","message":{"content":{"email":"mehvish@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-09-25 15:33:26"}
+{"level":"debug","message":{"content":{"email":"mehvish@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-09-25 16:53:47"}

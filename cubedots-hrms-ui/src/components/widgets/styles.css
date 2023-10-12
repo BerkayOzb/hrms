@@ -1,0 +1,21 @@
+.leaveWidgetConatiner {
+  width: "100%";
+  top: 162px;
+  left: 349px;
+  border-radius: 22px;
+  box-shadow: 4px 4px 15px 0px #00000033;
+  padding:10px;
+}
+
+.chart{
+    width: 35px;
+}
+.halfCircle {
+    width: 100px;
+    height: 50px;
+    background-color: #3498db;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+  
+

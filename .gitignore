@@ -1,0 +1,7 @@
+.env
+ 
+cubedots-hrms-backend/node_modules
+cubedots-hrms-backend/dist
+
+cubedots-hrms-ui/node_modules
+cubedots-hrms-ui/.env
