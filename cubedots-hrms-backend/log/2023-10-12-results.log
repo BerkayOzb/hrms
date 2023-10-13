@@ -1,2 +1,3 @@
 {"level":"debug","message":{"content":{"email":"berkay.ozbuga@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-10-12 11:50:30"}
 {"level":"debug","message":{"content":{"email":"ta@cubedots.com"},"meta":[],"type":"Sending an email"},"timestamp":"2023-10-12 14:11:51"}
+{"level":"error","message":{"content":"user not verified: ","meta":["TypeError: Cannot read properties of null (reading 'name')\n    at verifyUser (C:\\Cubedots Projects\\hrms\\cubedots-hrms-backend\\src\\controllers\\userController.js:128:28)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"],"type":"USER"},"timestamp":"2023-10-12 15:04:05"}
