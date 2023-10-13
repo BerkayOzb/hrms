@@ -16,7 +16,7 @@ const app = express();
 app.use(express.static(buildPath));
 app.get("/", function (req, res) {
   res.sendFile(
-    path.join(__dirname, "../client/build/index.html"),
+    path.join(__dirname, "../cubedots-hrms-ui/build/index.html"),
     function (err) {
       if (err) {
         res.status(500).send(err);
@@ -26,7 +26,6 @@ app.get("/", function (req, res) {
 });
 
 app.use(morgan("dev"));
-
 app.use(express.static("public"));
 app.use("/uploads", express.static("uploads"));
 
